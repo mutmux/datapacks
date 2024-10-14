@@ -1,0 +1,2 @@
+scoreboard objectives remove holding_torch
+scoreboard objectives add holding_torch dummy

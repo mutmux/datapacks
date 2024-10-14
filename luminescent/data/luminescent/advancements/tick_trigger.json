@@ -1,0 +1,21 @@
+{
+	"display": {
+		"icon": {
+			"item": "minecraft:air"
+		},
+		"title": "tick_trigger",
+		"description": "luminescent trigger",
+		"show_toast": false,
+		"announce_to_chat": false,
+		"hidden": true
+	},
+	"criteria": {
+	  "on_tick": {
+		"trigger": "minecraft:tick"
+	  }
+	},
+	"rewards": {
+	  "function": "luminescent:illuminate"
+	}
+  }
+  
