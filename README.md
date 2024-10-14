@@ -1,5 +1,5 @@
 ### How do I use these?
-Data packs are installed on a per-world basis. To install one or more of the data packs here, you can clone the repository (or [download as a .zip](https://github.com/mutmux/tweaks/archive/refs/heads/main.zip) and extract), then drag desired tweaks into your world's "datapacks" folder as is.
+Data packs are installed on a per-world basis. To install one or more of the data packs here, you can clone the repository (or [download as a .zip](https://github.com/mutmux/datapacks/archive/refs/heads/main.zip) and extract), then drag desired tweaks into your world's "datapacks" folder as is.
 
 For more information, there's a [tutorial on the Minecraft Wiki](https://minecraft.wiki/w/Tutorials/Installing_a_data_pack).
 
